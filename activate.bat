@@ -1,0 +1,1 @@
+cscript.exe "C:\Users\Usuario\Desktop\activateExternal.vbs"
